@@ -1,0 +1,113 @@
+{
+  "meta": {
+    "format": "courierquest-save",
+    "version": "1.0",
+    "timestamp": 1757324034.0952804
+  },
+  "state": {
+    "player": {
+      "name": "Courier",
+      "hp": 100,
+      "stamina": 100,
+      "position": [
+        0,
+        0
+      ],
+      "level": 1,
+      "money": 0
+    },
+    "world": {
+      "map": {
+        "name": "TigerCity",
+        "width": 30,
+        "height": 30,
+        "buildings": [],
+        "roads": []
+      },
+      "current_map": "TigerCity",
+      "time_played": 0,
+      "goal_income": 500
+    },
+    "inventory": [],
+    "orders": [
+      {
+        "id": "REQ-001",
+        "pickup": [
+          20,
+          19
+        ],
+        "dropoff": [
+          10,
+          22
+        ],
+        "reward": 0,
+        "deadline": "2025-09-01T12:10",
+        "status": "available"
+      },
+      {
+        "id": "REQ-002",
+        "pickup": [
+          27,
+          24
+        ],
+        "dropoff": [
+          4,
+          6
+        ],
+        "reward": 0,
+        "deadline": "2025-09-01T12:09",
+        "status": "available"
+      },
+      {
+        "id": "REQ-003",
+        "pickup": [
+          23,
+          9
+        ],
+        "dropoff": [
+          26,
+          5
+        ],
+        "reward": 0,
+        "deadline": "2025-09-01T12:08",
+        "status": "available"
+      },
+      {
+        "id": "REQ-004",
+        "pickup": [
+          20,
+          22
+        ],
+        "dropoff": [
+          7,
+          18
+        ],
+        "reward": 0,
+        "deadline": "2025-09-01T12:12",
+        "status": "available"
+      },
+      {
+        "id": "REQ-005",
+        "pickup": [
+          20,
+          21
+        ],
+        "dropoff": [
+          10,
+          20
+        ],
+        "reward": 0,
+        "deadline": "2025-09-01T12:11",
+        "status": "available"
+      }
+    ],
+    "reputation": 70,
+    "time_played": 0.0,
+    "weather_state": {
+      "condition": "clear",
+      "summary": "Despejado",
+      "temperature": 25,
+      "intensity": 0.0
+    }
+  }
+}
